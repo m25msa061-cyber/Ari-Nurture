@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Agri-Nurture",
+  "description": "A sophisticated HRM platform for agribusiness, designed to bridge the AI literacy gap for farmers and provide performance analytics for HR managers. Features include a bilingual interface, AI-powered crop advice and diagnosis, and a real-time farmer network dashboard.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
